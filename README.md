@@ -3,14 +3,12 @@
 
 <div align="center">
 
-<!-- UFO gif -->
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80" alt="UFO" />
 
 # Hi there, I'm Melika ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 <img width="180" height="180" alt="Profile" src="https://github.com/user-attachments/assets/0a3f334e-ba1a-4f20-bf1b-18ac3ec8f342" />
 
-### Computer Science Student · Toronto · Powered by tea & good vibes 🍵✨
+### Computer Programming Student · Toronto · Powered by tea & good vibes 🍵✨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melika-kashef-a30227292/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/MelikaTech)
@@ -38,7 +36,7 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelikaTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d2b" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaTech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d2b" />
+
 
 </div>
 
