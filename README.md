@@ -5,8 +5,9 @@
 
 
 # Hi there, I'm Melika ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<img width="480" height="480" alt="423606687bf24d26f6a55c3342b383ab" src="https://github.com/user-attachments/assets/c4124019-adad-41f5-bb1e-8e3a85d35282" />
 
-<img width="180" height="180" alt="Profile" src="https://github.com/user-attachments/assets/0a3f334e-ba1a-4f20-bf1b-18ac3ec8f342" />
+
 
 ### Computer Programming Student · Toronto · Powered by tea & good vibes 🍵✨
 
@@ -28,20 +29,6 @@
 👥  Open to: beginner-friendly collabs, student projects & anything fun
 💬  Ask me about: debugging, tea recommendations, or both at once
 ```
-
----
-
-## 📊 GitHub Stats
-
-
-<div align="center">
-
-<img width="1080" height="1080" alt="source" src="https://github.com/user-attachments/assets/37e70245-adfe-41ea-88e0-c939314c9f5d" />
-
-
-</div>
-
-<div align="center">
 
 
 ---
