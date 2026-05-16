@@ -3,9 +3,13 @@
 <img width="1333" height="400" alt="elizabeth-gross-acs-count-down-400px" src="https://github.com/user-attachments/assets/a784bb2c-9a70-48e7-8be3-6da292ff0716" />
 <!-- Stars Banner -->
 <img width="498" height="138" alt="tumblr_21f50e926d052fbc8a87d25e355b7908_ca1fe5cf_500" src="https://github.com/user-attachments/assets/ba272e4b-5249-4c62-a198-d60e734ddb57" />
+<img width="600" height="242" alt="7ce7d79870189 560db90e6cc31" src="https://github.com/user-attachments/assets/b24eba23-8c2b-479f-8c93-c4167b3689b0" />
+
+<img width="1440" height="340" alt="34220e95746151 5e9ecde696cb0" src="https://github.com/user-attachments/assets/abee4b04-a380-4b52-8437-88d9c0e7199e" />
+<img width="480" height="240" alt="giphy (3)" src="https://github.com/user-attachments/assets/4f4ca54c-1987-4cb1-a61e-f08ba55a5c3d" />
 
 
-
+<img width="636" height="214" alt="footer" src="https://github.com/user-attachments/assets/e8db7b1b-faaa-4c47-9308-3bb2c62c3bfd" />
 
 <!-- Name + cat side by side -->
 <table border="0" align="center">
