@@ -33,24 +33,16 @@
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelikaTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d2b" />
+<img width="1080" height="1080" alt="source" src="https://github.com/user-attachments/assets/37e70245-adfe-41ea-88e0-c939314c9f5d" />
 
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MelikaTech&theme=tokyonight&hide_border=true&background=0d0d2b" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MelikaTech&theme=react-dark&bg_color=0d0d2b&color=7a7fff&line=7a7fff&point=ffffff&hide_border=true" />
-
-</div>
 
 ---
 
