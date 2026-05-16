@@ -1,5 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 My name is Melika
+<img width="800" height="611" alt="24f89969530077 5b84d93a88cb0" src="https://github.com/user-attachments/assets/30aef998-c857-4354-88a6-e9d1c464c12c" />
+
 ===============================================================================================================================
 
 I'm a Computer Science student who loves turning ideas into code. Still learning, always curious, and not afraid of a good debugging session!
