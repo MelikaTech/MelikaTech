@@ -1,20 +1,20 @@
-<img width="1024" height="576" alt="34eaa2dd513dad7" src="https://github.com/user-attachments/assets/cd4e31f4-a147-4e8b-b0b8-8837c1b7f93f" />
+<img width="1024" height="576" alt="banner" src="https://github.com/user-attachments/assets/cd4e31f4-a147-4e8b-b0b8-8837c1b7f93f" />
 
 <!-- Name + cat side by side -->
 <table border="0" align="center">
   <tr>
     <td valign="middle">
-      <h1>Hi there, I'm Melika&nbsp;
+      <h1><font color="#c77dff">Hi there, I'm Melika</font>&nbsp;
         <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="28"/>
       </h1>
-      <h3>Computer Programming Student · Toronto 🍵✨</h3>
+      <h3><font color="#e0aaff">Computer Programming Student · Toronto 🍵✨</font></h3>
       <p>
-        🎓 &nbsp;Computer Programming diploma @ Georgian College<br/>
-        🌍 &nbsp;Based in Toronto, Canada<br/>
-        💻 &nbsp;Turning ideas into code — one bug at a time<br/>
-        🌱 &nbsp;Learning: HTML · CSS · JS · PHP · Java · Python · SQL<br/>
-        👥 &nbsp;Open to beginner-friendly collabs & student projects<br/>
-        💬 &nbsp;Ask me about debugging or tea recommendations
+        <font color="#c77dff">🎓 &nbsp;Computer Programming diploma @ Georgian College</font><br/>
+        <font color="#c77dff">🌍 &nbsp;Based in Toronto, Canada</font><br/>
+        <font color="#c77dff">💻 &nbsp;Turning ideas into code — one bug at a time</font><br/>
+        <font color="#c77dff">🌱 &nbsp;Learning: HTML · CSS · JS · PHP · Java · Python · SQL</font><br/>
+        <font color="#c77dff">👥 &nbsp;Open to beginner-friendly collabs & student projects</font><br/>
+        <font color="#c77dff">💬 &nbsp;Ask me about debugging or tea recommendations</font>
       </p>
       <p>
         <a href="https://www.linkedin.com/in/melika-kashef-a30227292/">
@@ -36,26 +36,21 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2><font color="#c77dff">📊 GitHub Stats</font></h2>
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=MelikaTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d2b" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaTech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d2b" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MelikaTech&theme=default&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MelikaTech&theme=tokyonight&hide_border=true&background=0d0d2b" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MelikaTech&theme=react-dark&bg_color=0d0d2b&color=7a7fff&line=7a7fff&point=ffffff&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MelikaTech&bg_color=ffffff&color=9d4edd&line=c77dff&point=7b2d8b&hide_border=true" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+<h2><font color="#c77dff">🛠️ Tech Stack</font></h2>
 
 <p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="40" height="40" /></a>&nbsp;&nbsp;
@@ -70,4 +65,3 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="40" height="40" /></a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="40" height="40" /></a>
 </p>
-
