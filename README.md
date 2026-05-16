@@ -1,5 +1,6 @@
 <!-- Stars Banner -->
-<img width="480" height="269" alt="tumblr_90d5d9e2d5a4f6f5b1b4c1c0f2f44688_1651035f_500" src="https://github.com/user-attachments/assets/4138bdf3-613e-4be9-83d2-d306a3d9991b" />
+<img width="498" height="138" alt="tumblr_21f50e926d052fbc8a87d25e355b7908_ca1fe5cf_500" src="https://github.com/user-attachments/assets/ba272e4b-5249-4c62-a198-d60e734ddb57" />
+
 
 
 
@@ -74,7 +75,3 @@
 <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="40" height="40" /></a>
 </p>
 
----
-
-<!-- Stars Footer -->
-<img width="100%" src="https://github.com/user-attachments/assets/507d72f7-9e2d-4c0e-8780-069a5c6c3dcc" alt="stars footer" />
