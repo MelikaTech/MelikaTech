@@ -1,14 +1,7 @@
 <!-- Stars Banner -->
-<img width="100%" src="https://github.com/user-attachments/assets/507d72f7-9e2d-4c0e-8780-069a5c6c3dcc" alt="stars banner" />
+<img width="480" height="269" alt="tumblr_90d5d9e2d5a4f6f5b1b4c1c0f2f44688_1651035f_500" src="https://github.com/user-attachments/assets/4138bdf3-613e-4be9-83d2-d306a3d9991b" />
 
-<br/>
 
-<!-- UFO gif -->
-<div align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="60" alt="UFO" />
-</div>
-
-<br/>
 
 <!-- Name + cat side by side -->
 <table border="0" align="center">
