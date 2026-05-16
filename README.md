@@ -1,9 +1,9 @@
 <img width="1024" height="576" alt="banner" src="https://github.com/user-attachments/assets/cd4e31f4-a147-4e8b-b0b8-8837c1b7f93f" />
 
 <!-- Name + cat side by side -->
-<table border="0" align="center">
+<table border="0" width="100%">
   <tr>
-    <td valign="middle">
+    <td valign="middle" width="75%">
       <h1><font color="#c77dff">Hi there, I'm Melika</font>&nbsp;
         <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="28"/>
       </h1>
@@ -28,7 +28,7 @@
         </a>
       </p>
     </td>
-    <td valign="middle" width="200">
+    <td valign="middle" width="25%" align="center">
       <img src="https://github.com/user-attachments/assets/c4124019-adad-41f5-bb1e-8e3a85d35282" width="160" alt="cat" />
     </td>
   </tr>
@@ -40,11 +40,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MelikaTech&theme=default&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MelikaTech&background=00000000&hide_border=true&stroke=c77dff&ring=c77dff&fire=e0aaff&currStreakLabel=c77dff&sideLabels=c77dff&dates=c77dff&sideNums=c77dff&currStreakNum=c77dff" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MelikaTech&bg_color=ffffff&color=9d4edd&line=c77dff&point=7b2d8b&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MelikaTech&bg_color=00000000&color=9d4edd&line=c77dff&point=7b2d8b&hide_border=true" />
 
 </div>
 
