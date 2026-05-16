@@ -51,6 +51,5 @@
 
 ---
 
-<!-- Stars Footer -->
-<img width="100%" src="https://github.com/user-attachments/assets/507d72f7-9e2d-4c0e-8780-069a5c6c3dcc" alt="stars background footer" />
+
 
