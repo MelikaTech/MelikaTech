@@ -22,7 +22,7 @@
         <a href="https://www.linkedin.com/in/melika-kashef-a30227292/">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>&nbsp;
-        <a href="https://www.github.com/MelikaTech">
+        <a href="https://www.github.com/MelikaCodes">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>&nbsp;
         <a href="mailto:milakashef@gmail.com">
@@ -43,11 +43,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MelikaTech&background=00000000&hide_border=true&stroke=c77dff&ring=c77dff&fire=e0aaff&currStreakLabel=c77dff&sideLabels=c77dff&dates=c77dff&sideNums=c77dff&currStreakNum=c77dff" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MelikaCodes&background=00000000&hide_border=true&stroke=c77dff&ring=c77dff&fire=e0aaff&currStreakLabel=c77dff&sideLabels=c77dff&dates=c77dff&sideNums=c77dff&currStreakNum=c77dff" width="60%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MelikaTech&bg_color=00000000&color=9d4edd&line=c77dff&point=7b2d8b&hide_border=true" width="60%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MelikaCodes&bg_color=00000000&color=9d4edd&line=c77dff&point=7b2d8b&hide_border=true" width="60%" />
 
 </div>
 
