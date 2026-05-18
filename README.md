@@ -10,7 +10,7 @@
         <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="28"/>
       </h1>
       <h3 align="center"><font color="#e0aaff">Computer Programming Student · Toronto 🍵✨</font></h3>
-      <p align="center">
+      <p align="left">
         <font color="#c77dff">🎓 &nbsp;Computer Programming diploma @ Georgian College</font><br/>
         <font color="#c77dff">🌍 &nbsp;Based in Toronto, Canada</font><br/>
         <font color="#c77dff">💻 &nbsp;Turning ideas into code — one bug at a time</font><br/>
